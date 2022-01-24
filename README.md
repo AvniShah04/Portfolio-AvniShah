@@ -2,8 +2,11 @@ Hello Everyone! Welcome to my Telling stories with data portfolio!
 
 About Me:
 My name is Avni Shah.I use the pronouns She/her/hers.I am born and raised in Pune, India.I have completed my undergraduate degree in dental studies from India. I am currently pursuing my Masters in Healthcare Policy and Management at Carnegie Mellon University. A few quick facts about me!
+
 I speak 5 languages fluently and I am currently learning my sixth- Spanish!
+
 I have worked for 2 years as a dentist and treated over 500 patients
+
 Outside of academics and work I enjoy reading, travelling and swimming.
 
 Career Goals and Aspirations:
