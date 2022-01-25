@@ -20,10 +20,10 @@
 
 <h3> Portfolio: </h3>
 
-<h4> - Data Visulization 1 </h4)
+<h4> - Data Visulization 1 
  
-<h4> - Data Visulization 2 </h4>
+- Data Visulization 2 
  
-<h4> - Data Visulization 3 </h4>
+ - Data Visulization 3 
  
-<h4> - Final Project </h4>
+ - Final Project </h4>
