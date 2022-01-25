@@ -25,6 +25,6 @@
  
 - Data Visulization 2 
  
- - Data Visulization 3 
+- Data Visulization 3 
  
- - Final Project </h4>
+- Final Project </h4>
