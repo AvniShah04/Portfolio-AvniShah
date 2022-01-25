@@ -20,7 +20,8 @@
 
 <h3> Portfolio: </h3>
 
-<h4> - Data Visulization 1 
+<h4>
+- Data Visulization 1 
  
 - Data Visulization 2 
  
