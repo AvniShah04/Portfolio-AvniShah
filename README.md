@@ -21,7 +21,7 @@ As I worked through the various courses of my graduate program I realized that w
 <h3> Portfolio: </h3>
 
 
-- Data Visulization 1 
+- [Data Visulization 1](DataVisualization2.md)
  
 - Data Visulization 2 
  
