@@ -1,4 +1,4 @@
-# Data Visualization Comparing Debt to GDP ratio#
+# Data Visualization Comparing Debt to GDP ratio #
 
  The data source used was the OECD website which had data on various country ratios.
  # USA V/S India Ratios #
