@@ -1,7 +1,7 @@
 # Data Visualization Comparing Debt to GDP ratio#
 
  The data source used was the OECD website which had data on various country ratios.
- # USA V/S India Ratios#
+ # USA V/S India Ratios #
  The first visualization was focused on comparing the Debt to GDP ratio for India as a developing economy to US as a developed economy. This visualization highlights those specific columns.
 
 <iframe src="https://data.oecd.org/chart/6BlW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BlW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
@@ -16,6 +16,7 @@ This visualization highlights the change in the debt to GDP ratio for different 
 Here I have used a grid of column chart to visualize the GDP to Debt ratio for all the countries for various years:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8567853"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 The chart used for the for the first visualization is a simple column chart.It helps compare the debt to GDP ratio across differnt countires for a single year making it easy to follow and identify the countries with the highest and lowest ratios. Highlighting the different sections of the chart can also help in drawing attention to a particular segment/ country of iterest. The downside of using this visualization is the lack of a higher level view. It also makes it difficult to identify the trends in the data.
 The chart used for the second visualization is a grid line chart. This chart allows the comparision of multiple countires in a single grid. It provides an overview of the data and also allows for comparision in trends between different countries. It is however not convinient to use it for observing individual level data.
