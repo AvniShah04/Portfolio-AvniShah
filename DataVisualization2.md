@@ -1,7 +1,9 @@
-# Data Visualization Comparing Debt to GDP ratio #
+# Data Visualization Comparing Debt to GDP Ratio #
 
- The data source used was the OECD website which had data on various country ratios.
- # USA V/S India Ratios #
+The data source used was the OECD website which had data on various country ratios.
+
+# USA V/S India Ratios #
+ 
  The first visualization was focused on comparing the Debt to GDP ratio for India as a developing economy to US as a developed economy. This visualization highlights those specific columns.
 
 <iframe src="https://data.oecd.org/chart/6BlW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BlW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
