@@ -23,6 +23,8 @@ As I worked through the various courses of my graduate program I realized that w
 
 - [Data Visualization 1](DataVisualization2.md)
  
+- [Classwork 1](ClassWork.md)
+
 - Data Visualization 2 
  
 - Data Visualization 3 
