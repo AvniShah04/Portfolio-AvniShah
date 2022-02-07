@@ -3,7 +3,7 @@
 
 For the assignment I selected a data visualization from the international educational statistics website. This data was collected in 2007 and analyzed by Friedrich Huebler. The aim of the analysis was to better understand the difference in the adult and youth literacy rates in different regions of the world. This difference would then be used to determine the area of focus for education and literacy resources. The analysis spanned 10 regions and included both youth  and adult literacy rates. The primary audience for this visualization would be general students and professionals (Media personnel and educators) using educational data for their work or courses. I selected this data set as I am very interested in understanding the interlinked relation of health and education. 
 
-# SELECTED DATA VISULIZATION #
+# SELECTED DATA VISUALIZATION #
 
 There were 2 data visualizations associated with this data set one focusing on the different regions and the their literacy rates. The second one gave a zoomed in view of a cluster of the data points seen in the first visualization. I focused on improving the first visualization to ensure the data was more readable and easier to interpret.
 The data visualization is below:
@@ -21,7 +21,7 @@ The icons were difficult to distinguish. The title indicated the graph represent
 ## What would I change ##
 I would use a multiple bar graph instead of a scatterplot for the data. I would change the title to reflect the data of the graph. I would also use only one color for the youth literacy and another for the adult literacy rate, so the contrast  in rates is more evident. I would also label the location on the X axis so as to make the legend smaller and easy to follow. 
 
-# Wire Frame #
+# WIRE FRAME #
 After considering the changes I believed best improved the visualization, I create a rough sketch of the visualization to evaluate it further.
  The image below was my Wire Frame :
  
@@ -30,7 +30,7 @@ After considering the changes I believed best improved the visualization, I crea
  
 For my wire frame I used multiple column graph to represent the data. I tried to ensure the scale was accurate to make the difference more evident. I eliminated the legend and put the region names on the X- Axis. I also changed the title to be less confusing (changing it to continents v/s countries). I used contrasting colors to make the difference between the two literacy rates more evident.
 
-# Primary Feedback #
+# PRIMARY FEEDBACK #
 I took feedback from a young person who was comfortable reading and working with data. His feedback for the visualization was: 
 1) The colors used create the illusion of better and worse literacy between adult and youth literacy. It was also not color blind friendly.
 2) The other point of feedback was the title was not accurate since it was referring to continents however the data referred to different regions in the continents.
@@ -45,14 +45,14 @@ Another person I spoke to was a older women who did not regularly analyze data.H
 
 I incorporated the change in the heights of the columns.
 
-# Rework #
+# REWORK #
 
 I incorporated the feedback and reworked my visualization on Flourish. I ensured to use contrasting and color blind friendly colors. I also arranged the order of the columns.
 My Rework is below:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8622079"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Second Round of Feedback #
+# SECONDARY FEEDBACK #
  
 I discussed my work in class with my classmate to improve my visualization.
 The feedback I received included: 
@@ -61,7 +61,7 @@ The feedback I received included:
 
 I decided to rework my type of visualization , keeping in mind all the critic I received including the color choice, title selection, scale selection and ensuring the data was correctly arranged.
 
-# Final Work #
+# FINAL WORK #
 I completed my assignment using the connected dot plot and arranged the plot in decreasing order of the difference in adult and youth literacy. 
 The plot increased the focus on the differnce in literacy rates.
 
