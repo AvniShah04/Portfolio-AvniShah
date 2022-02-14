@@ -31,3 +31,35 @@ WHAT WILL THE PROJECT INCLUDE?
 
 - Call to action: This section will provide imformation that individuals and organizations can undertake to improve the skewed gender ratios and will highlight the major takeaways from this project.
 
+# SKETCHES #
+
+This section includes my rough story telling outline as well as the placements of the various segments on my project. It is not represnetation of the final work there will be edits to the size. shape, color and formatting to make it as appealing as possible using digital tools.
+
+
+# DATA #
+
+I intend to use different data sources for all my seven visualizations Data selected has been drawn from sources including the Zoominfo, US labor statistics, research done by University of Rutgers etc. (The data sources for the vusualizations are included below). Alot of the data included required the data sets to be created from images or written matter as oppose to direct data sets to ensure recent and relvant data was included.The data sets were created from the available data and complied into a single dataset in excel including all the necessary data.The data collected will serve 2 major segments of the project the present state ( including the data sets on the current gender ratios in medicine, politics, corporations and arts.The second major contribution is to the causes section since the data on the wage gaps, gender bias and lack of training will be used to highlight this section.
+
+Data Sources:
+1)Ros, A. V., Markham, S., Wu, D., & Nicholas, P. (n.d.). A rapid scoping review of gender inequities in the medical profession: Semantic scholar. undefined. Retrieved February 14, 2022, from https://www.semanticscholar.org/paper/A-Rapid-Scoping-Review-of-Gender-Inequities-in-the-Ros-Markham/8a09d48b97943a3a571aa14da41310cbde2d3dcc#extracted
+https://user-images.githubusercontent.com/98298048/153798263-3148b9c2-30f5-46bf-a8da-8d956a426aa2.png
+
+2) Women in management (quick take). Catalyst. (2020, August 11). Retrieved February 14, 2022, from https://www.catalyst.org/research/women-in-management/
+https://user-images.githubusercontent.com/98298048/153798348-c65e2e6b-8b72-4fd8-9750-fb52a3b497fd.png
+
+3)Lauzen  , D. M. (2016, January 28). Still too few women behind the scenes in Hollywood. Women's Media Center. Retrieved February 14, 2022, from https://womensmediacenter.com/news-features/still-too-few-women-behind-the-scenes-in-hollywood 
+
+4)Find women elected officials. Home | CAWP Data. (n.d.). Retrieved February 14, 2022, from https://cawpdata.rutgers.edu/
+
+5)Smedley, M. (2021, June 9). Gender bias in leadership starts at Day One. DDI. Retrieved February 14, 2022, from https://www.ddiworld.com/blog/gender-bias-in-leadership 
+
+6)Wallask, S. (n.d.). Leadership promotions for women still lag in 2020: ZoomInfo. Pipeline Blog. Retrieved February 14, 2022, from https://pipeline.zoominfo.com/recruiting/women-promotion-gap
+https://user-images.githubusercontent.com/98298048/153798475-52034679-764c-4d32-99ff-6b04a649c913.png
+
+7)Explore census data. (n.d.). Retrieved February 14, 2022, from https://data.census.gov/cedsci/table?q=S2413&tid=ACSST1Y2019.S2413&hidePreview=true
+https://user-images.githubusercontent.com/98298048/153798497-3ada1214-2a85-4c4e-9c36-884ceb89f56a.png
+
+
+
+
+
