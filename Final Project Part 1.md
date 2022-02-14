@@ -41,6 +41,7 @@ This section includes my rough story telling outline as well as the placements o
 I intend to use different data sources for all my seven visualizations Data selected has been drawn from sources including the Zoominfo, US labor statistics, research done by University of Rutgers etc. (The data sources for the vusualizations are included below). Alot of the data included required the data sets to be created from images or written matter as oppose to direct data sets to ensure recent and relvant data was included.The data sets were created from the available data and complied into a single dataset in excel including all the necessary data.The data collected will serve 2 major segments of the project the present state ( including the data sets on the current gender ratios in medicine, politics, corporations and arts.The second major contribution is to the causes section since the data on the wage gaps, gender bias and lack of training will be used to highlight this section.
 
 Data Sources:
+
 1)Ros, A. V., Markham, S., Wu, D., & Nicholas, P. (n.d.). A rapid scoping review of gender inequities in the medical profession: Semantic scholar. undefined. Retrieved February 14, 2022, from https://www.semanticscholar.org/paper/A-Rapid-Scoping-Review-of-Gender-Inequities-in-the-Ros-Markham/8a09d48b97943a3a571aa14da41310cbde2d3dcc#extracted
 https://user-images.githubusercontent.com/98298048/153798263-3148b9c2-30f5-46bf-a8da-8d956a426aa2.png
 
