@@ -33,12 +33,30 @@ WHAT WILL THE PROJECT INCLUDE?
 
 # SKETCHES #
 
-This section includes my rough story telling outline as well as the placements of the various segments on my project. It is not represnetation of the final work there will be edits to the size. shape, color and formatting to make it as appealing as possible using digital tools.
+This section includes my rough story telling outline as well as the placements of the various segments on my project. It is not representation of the final work there will be edits to the size. shape, color and formatting to make it as appealing as possible using digital tools.
+
+Story Outline:
+
+![Final Project part 1](https://user-images.githubusercontent.com/98298048/153799145-ed517c45-310b-4d07-8089-a8394aeb30aa.jpeg)
+
+Project Sketches:
+
+![Final Project part 2](https://user-images.githubusercontent.com/98298048/153799152-7532fee4-f37e-4489-95ad-8bb67850dfe0.jpeg)
+
+![final project part 3](https://user-images.githubusercontent.com/98298048/153799159-11aba03f-23ab-49e6-a018-371139a59f5f.jpeg)
+
+![final project part 4](https://user-images.githubusercontent.com/98298048/153799167-6cd2633c-b3b7-42f7-8be3-79a8347121dc.jpeg)
+
+![final project part 5](https://user-images.githubusercontent.com/98298048/153799185-4ad5a757-0e3a-4e4a-a14d-16562d4fd573.jpeg)
+
+![final project part 6](https://user-images.githubusercontent.com/98298048/153799196-40e5257a-2ead-4540-b5c2-f82a3624f005.jpeg)
+
+![final project part 7](https://user-images.githubusercontent.com/98298048/153799209-1799ecbb-6f73-4ee5-92e4-1a56a91d71af.jpeg)
 
 
 # DATA #
 
-I intend to use different data sources for all my seven visualizations Data selected has been drawn from sources including the Zoominfo, US labor statistics, research done by University of Rutgers etc. (The data sources for the vusualizations are included below). Alot of the data included required the data sets to be created from images or written matter as oppose to direct data sets to ensure recent and relvant data was included.The data sets were created from the available data and complied into a single dataset in excel including all the necessary data.The data collected will serve 2 major segments of the project the present state ( including the data sets on the current gender ratios in medicine, politics, corporations and arts.The second major contribution is to the causes section since the data on the wage gaps, gender bias and lack of training will be used to highlight this section.
+I intend to use different data sources for all my seven visualizations. Data selected has been drawn from sources including the Zoominfo, US labor statistics, research done by University of Rutgers etc. (The data sources for the visualizations are included below). Alot of the data included required the data sets to be created from images or written matter as oppose to direct data sets to ensure recent and relvant data was included.The data sets were created from the available data and complied into a single dataset in excel including all the necessary data.The data collected will serve 2 major segments of the project the present state ( including the data sets on the current gender ratios in medicine, politics, corporations and arts.The second major contribution is to the causes section since the data on the wage gaps, gender bias and lack of training will be used to highlight this section.
 
 Data Sources:
 
@@ -59,6 +77,10 @@ https://user-images.githubusercontent.com/98298048/153798475-52034679-764c-4d32-
 
 7)Explore census data. (n.d.). Retrieved February 14, 2022, from https://data.census.gov/cedsci/table?q=S2413&tid=ACSST1Y2019.S2413&hidePreview=true
 https://user-images.githubusercontent.com/98298048/153798497-3ada1214-2a85-4c4e-9c36-884ceb89f56a.png
+
+[Complete Data File- Final Project.xlsx](https://github.com/AvniShah04/Portfolio-AvniShah/files/8057782/Complete.Data.File-.Final.Project.xlsx)
+
+# MEDIUM #
 
 
 
