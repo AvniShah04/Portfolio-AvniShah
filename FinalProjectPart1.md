@@ -37,21 +37,23 @@ This section includes my rough story telling outline as well as the placements o
 
 Story Outline:
 
-![Final Project part 1](https://user-images.githubusercontent.com/98298048/153799145-ed517c45-310b-4d07-8089-a8394aeb30aa.jpeg)
+![Final Project part 1](https://user-images.githubusercontent.com/98298048/153941114-5d2c17d2-ac7b-4040-9391-fcfffd619d58.jpeg)
+
 
 Project Sketches:
 
-![Final Project part 2](https://user-images.githubusercontent.com/98298048/153799152-7532fee4-f37e-4489-95ad-8bb67850dfe0.jpeg)
+![Final Project part 2](https://user-images.githubusercontent.com/98298048/153941167-024e902b-bb06-462a-bd09-fecf93b31ad0.jpeg)
 
-![final project part 3](https://user-images.githubusercontent.com/98298048/153799159-11aba03f-23ab-49e6-a018-371139a59f5f.jpeg)
+![final project part 3](https://user-images.githubusercontent.com/98298048/153941237-6377ed31-481f-4f34-81c5-562935daf459.jpeg)
 
 ![final project part 4](https://user-images.githubusercontent.com/98298048/153940074-6042e7c4-0468-43fa-a5c9-7a34d341efd7.jpeg)
 
-![final project part 5](https://user-images.githubusercontent.com/98298048/153799185-4ad5a757-0e3a-4e4a-a14d-16562d4fd573.jpeg)
+![final project part 5](https://user-images.githubusercontent.com/98298048/153941315-223904c8-e928-418d-83dd-41d752835058.jpeg)
 
 ![final project part 6](https://user-images.githubusercontent.com/98298048/153940128-5ca318a2-d9dd-4a23-9c51-528981ab8208.jpeg)
 
-![final project part 7](https://user-images.githubusercontent.com/98298048/153799209-1799ecbb-6f73-4ee5-92e4-1a56a91d71af.jpeg)
+![final project part 7](https://user-images.githubusercontent.com/98298048/153941367-192cbfa8-ca08-479c-976b-a1520a72b87b.jpeg)
+
 
 
 # DATA #
