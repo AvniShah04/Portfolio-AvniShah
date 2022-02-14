@@ -82,7 +82,7 @@ https://user-images.githubusercontent.com/98298048/153798497-3ada1214-2a85-4c4e-
 
 # MEDIUM #
 
-
+I will be using the * shorthand platform * to create my story and publish my data visualizations.I selected this platform as it is a relatively easy to master and visually attractive option. I will also be using flourish, data wrapper and canva as appropriate to best visualize my data. The data wrapper will specifically be used to incorporate a timeline for major events for women in leadership roles (An alternative to the examples option I have included in the sketches). Canva will primarily be used to esure the Call to Action is impactful and easy to follow. The other visualizations based on the data will be created using flourish since its a familiar platform with a variety of graph options that would best capture and present the data.
 
 
 
