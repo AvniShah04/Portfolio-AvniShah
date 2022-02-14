@@ -45,11 +45,11 @@ Project Sketches:
 
 ![final project part 3](https://user-images.githubusercontent.com/98298048/153799159-11aba03f-23ab-49e6-a018-371139a59f5f.jpeg)
 
-![final project part 4](https://user-images.githubusercontent.com/98298048/153799167-6cd2633c-b3b7-42f7-8be3-79a8347121dc.jpeg)
+![final project part 4](https://user-images.githubusercontent.com/98298048/153940074-6042e7c4-0468-43fa-a5c9-7a34d341efd7.jpeg)
 
 ![final project part 5](https://user-images.githubusercontent.com/98298048/153799185-4ad5a757-0e3a-4e4a-a14d-16562d4fd573.jpeg)
 
-![final project part 6](https://user-images.githubusercontent.com/98298048/153799196-40e5257a-2ead-4540-b5c2-f82a3624f005.jpeg)
+![final project part 6](https://user-images.githubusercontent.com/98298048/153940128-5ca318a2-d9dd-4a23-9c51-528981ab8208.jpeg)
 
 ![final project part 7](https://user-images.githubusercontent.com/98298048/153799209-1799ecbb-6f73-4ee5-92e4-1a56a91d71af.jpeg)
 
