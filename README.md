@@ -25,6 +25,4 @@ As I worked through the various courses of my graduate program I realized that w
 
 - [Data Visualization 2](DataVisualization3.md)
  
-- Data Visualization 3 
- 
-- Final Project 
+- [Final Project Part 1](Final Project Part 1.md)
