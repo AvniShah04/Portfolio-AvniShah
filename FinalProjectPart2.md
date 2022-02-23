@@ -36,7 +36,7 @@ When I considered my the individuals I wanted to interview, I wanted to ensure I
 
 1) *Informative:*
 
-- Is the title infomrative?
+- Is the title informative?
 - What does it say about the subject?
 - Is the material adequate for the examples would you suggest any changes?
 - What do you think is the focus of the bar graphs? Is there any additional infomration you would want to see?
@@ -60,5 +60,91 @@ When I considered my the individuals I wanted to interview, I wanted to ensure I
 - Is there any elements that are being missed or should be added?
 
 # Feedback #
+
+1) Informative
+
+- Is the title informative?
+A:Yes 
+B:Yes
+C:Yes
+
+-What does it say about the subject?
+A: The subject is about women leadership
+B: It speaks about women equality, women leadership , the image helps emphasis the point"
+C: Women can lead both men and women.
+
+-Is the material adequate for the examples would you suggest any changes?
+A: Yes, it infomration is clear and easy to follow, but I would include more imformation for each of them
+B: I find the information enough but I would have liked the use of bulletins.
+C: I like the information, but I would include information about their present  titles under thier names and then have the information be more chronological.
+
+- What do you think is the focus of the bar graphs? Is there any additional infomration you would want to see?
+A: I like the representation across various fields. 
+B:
+C:
+
+- What do you think the first subtitles indicates? 
+A:
+B:
+C:
+
+- What does the second sub title indicate?
+A:
+B:
+C:
+
+- Do you find the material on causes easy to follow?
+A:
+B:
+C:
+
+- Do you think the frame work for the call to action is appropriate? Do you suggest any changes?
+A:
+B:
+C:
+
+2) *Visualization:*
+
+- Do you think the images used for the title and the various sub headings are appropriate with the theme?
+A:I really like the Sub title 3 graphic it is very well tied with the subject.
+B:I would change the graphic used for Sub title 2 since it is not adequately representing all women.
+C:I think they look good but it woulf help to reduce the overlay slightly so that the images are more clear.
+
+- Do you agree with the images used for the examples?
+A:Yes I think they are appropriate but too pixelated
+B:I would have a slideshow with multiple images showing the women at work
+C:I like the selected images.
+
+- Do you agree with the graph type used to represent the participation and colour scheme used?Is there any changes you suggest?
+A: Yes I think they are easy to follow, I like the break in the background and the use of different colors is attractive.
+B: I would use the same chart type but standardize the scale being used to ensure people do not have to keep looking at it.
+C: Yes but I think a stacked column chart which showed women participation as a part of a whole would be more impactful.
+   
+- Do you find the inforgraphics appopriate and easy to follow?
+A: No I find it hard to see the change and difficult to link with the text
+B: No I would include a line of text what would help connect the infographics to the text
+C: I can follow them but I would have them stationary instead of on a scroll.
+
+- Does the dark background suit the theme or would a lighter one be better?
+A: Yes I find it more comfortable to read
+B: Yes 
+C: I think either of the backgrounds can work.
+
+- Do you think gender specific colours should be used?
+A: No 
+B: No I think it would emphasize on the sterotype
+C: Yes it makes it easy to distinguis especially with the inforgraphics that a quick to change.
+
+3) *Overview and Extra:*
+
+- Is there anything you suggest would improve the flow of the project?
+A:I like the flow of the topic, I find is easy to follow
+B:I think it would help to have an additional subtitle before the examples to tie it all in.
+C:I would add a conclusion to bring it together
+
+- Is there any elements that are being missed or should be added?
+A:No I don't think so
+B:No
+C:The coclusion should be included and should speak to the benifits to the society
 
 
