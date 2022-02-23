@@ -64,13 +64,19 @@ When I considered my the individuals I wanted to interview, I wanted to ensure I
 1) Informative
 
 - Is the title informative?
+
 A:Yes 
+
 B:Yes
+
 C:Yes
 
 -What does it say about the subject?
+
 A: The subject is about women leadership
+
 B: It speaks about women equality, women leadership , the image helps emphasis the point"
+
 C: Women can lead both men and women.
 
 -Is the material adequate for the examples would you suggest any changes?
