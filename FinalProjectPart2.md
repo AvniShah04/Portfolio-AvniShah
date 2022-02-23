@@ -6,7 +6,7 @@ I used the sketches I created for Part 1 to develop the material and images for 
 
 The link to my Shorthand draft is here :https://preview.shorthand.com/QHEal0PKgtpkTEDV#article
 
-# User Research Interviews:#
+# User Research Interviews: #
 
 There were 3 main things I included in my research interview:
 - Target Audience
