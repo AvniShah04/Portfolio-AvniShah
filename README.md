@@ -26,3 +26,5 @@ As I worked through the various courses of my graduate program I realized that w
 - [Data Visualization 2](DataVisualization3.md)
  
 - [Final Project Part 1](FinalProjectPart1.md)
+
+- [Final Project Part 2](FinalProjectPart2.md)
