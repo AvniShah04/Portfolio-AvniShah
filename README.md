@@ -29,6 +29,6 @@ As I worked through the various courses of my graduate program I realized that w
 
 - [Final Project Part 2](FinalProjectPart2.md)
 
--[Final Project Part 3](FinalProject3.md)
+-[Final Project Part 3](FinalProject3.html)
 
 -[Final Project](https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
