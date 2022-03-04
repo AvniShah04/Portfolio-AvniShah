@@ -22,13 +22,25 @@ As I worked through the various courses of my graduate program I realized that w
 
 
 - [Data Visualization 1](DataVisualization2.md)
+ 
+ This visualization was focused on using different types of visualizations to best illustrate the data comparing debt to GDP ratio.The visualization included comparing the ratio across countirs and across different years.The graph types used were bar graph, grid column graph and grid line graph.
 
 - [Data Visualization 2](DataVisualization3.md)
+
+This visualizationn was focused on better understanding the process of data presentation and story telling. It included criticing, conducting feedback interviews, reiterating the visualizations and creating the final visualization. The data used for this visualization was on youth and adult literacy levels in different parts of the world.
  
 - [Final Project Part 1](FinalProjectPart1.md)
 
+This section was the first part of a three part project. It included the inital steps of finding data sources, deciding the story and determining visualizations. This section included the outline, data sources, medium and sketches. 
+
 - [Final Project Part 2](FinalProjectPart2.md)
+
+This section was the second part of a three part project. The main focus of this section was to include more details on the sketches from part one and to conduct the user research interviews. This section concluded with a section on changes to be included in the final section of the project.
 
 - [Final Project Part 3](FinalProject3.html)
 
+The section is the third part of a three part project. It includes the project and audience scope, the changes incorporated from the second section and poosible future works for this project.
+
 - [Final Project](https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
+
+This is the link to the final project created as a result of the three part assignment. This was created using ShortHand, Canva, Flourish and inforgram.
