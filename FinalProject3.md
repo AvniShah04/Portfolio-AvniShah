@@ -67,5 +67,5 @@ I have included all my citations for the information and the photos using APA-6 
 - [Project Part 1](FinalProjectPart1.md)
 - [Project Part 2](FinalProjectPart2.md)
 - [Final Project]( https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
-- [Back](ReadMe.md)
+- [Back](README.md)
 
