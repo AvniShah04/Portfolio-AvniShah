@@ -222,4 +222,5 @@ C:The conclusion should be included and should speak to the benefits to the soci
 - [Project Part 1](FinalProjectPart1.md)
 - [Project Part 3](FinalProject3.md)
 - [Final Project]( https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
+- [Back](README.md)
  
