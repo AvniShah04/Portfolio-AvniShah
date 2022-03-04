@@ -6,7 +6,7 @@ I used the sketches I created for Part 1 to develop the material and images for 
 
 The link to my Shorthand draft is here :https://preview.shorthand.com/QHEal0PKgtpkTEDV#article
 
-# User Research Interviews: #
+# USER RESEARCH INTERVIEWS#
 
 There were 3 main things I included in my research interview:
 - Target Audience
@@ -15,7 +15,7 @@ There were 3 main things I included in my research interview:
 - Feedback 
 - Changes to be included in part 3
 
-# Target Audience #
+# TARGET AUDIENCE#
 
 1) Women: Since my subject is on women in leadership my target audience included women. I hope to use the project to encourage women to pursue leadership roles in various fields. It is also intended to create awareness among women about the disparity that exists in wages and leadership positions.
 
@@ -23,7 +23,7 @@ There were 3 main things I included in my research interview:
 
 3) General Public: While the project is focused on discrimination and inequality in the workplace, I believe, even the general public would be a potential audience for this project as it brings forth the effect of disparity in treatment for women and speaks to the need for a change in mindset when it comes to the progress of women.
 
-# Approach to identifying the individuals #
+# APPROACH TO IDENTIFYING AUDIENCE#
 
 When I considered the individuals I wanted to interview, I wanted to ensure I had a wide range of age, genders and economic backgrounds.
 
@@ -33,7 +33,7 @@ When I considered the individuals I wanted to interview, I wanted to ensure I ha
 
 - Economic Background: Having people who come from a variety of economic backgrounds, education levels, and job profiles would help me identify the change in focus for different audiences. This can dictate how I can modify my project to best serve my target audience.
 
-# Interview Script #
+# INTERVIEW SCRIPT #
 
 1) *Informative:*
 
@@ -59,7 +59,7 @@ When I considered the individuals I wanted to interview, I wanted to ensure I ha
 - Is there anything you suggest would improve the flow of the project?
 - Are there any elements that are being missed or should be added?
 
-# Information about Interviewees
+# INFORMATION ABOUT INTERVIEWEES #
 
 A- A young female student, who commonly works with data and if familiar with the different presentation styles. She comes from an economically challenged background.
 
@@ -67,7 +67,7 @@ B- A stay at home, mid aged women who is not well versed with data presentation 
 
 C- A Mid aged man who works in the financial sector in a mid-sized company and common makes presentations for the firm. 
 
-# Feedback #
+# FEEDBACK #
 
 1) Informative
 
@@ -203,7 +203,7 @@ B:No
 
 C:The conclusion should be included and should speak to the benefits to the society
 
-# Changes to be incorporated in Part 3 #
+# CHANGES FOR PART 3 #
 
 - Try different levels of overlays for the background images.
 - Correct grammatical errors and punctuations.
@@ -217,4 +217,9 @@ C:The conclusion should be included and should speak to the benefits to the soci
 - Add information to the "Wage gap section.
 - Complete the call to action with the use of verbs and images.
 - Include a concluding section.
+
+# LINKS #
+- [Project Part 1](FinalProjectPart1.md)
+- [Project Part 3](FinalProject3.md)
+- [Final Project]( https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
  
