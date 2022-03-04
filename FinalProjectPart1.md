@@ -92,4 +92,4 @@ I will be using the shorthand platform  to create my story and publish my data v
 - [Project Part 2](FinalProjectPart2.md)
 - [Project Part 3](FinalProject3.md)
 - [Final Project]( https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
-- [BACK](README.md)
+- [Back](README.md)
