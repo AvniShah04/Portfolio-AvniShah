@@ -1,11 +1,11 @@
 # Final Project Part 3 #
 
-## Project Scope: ##
+## PROJECT SCOPE: ##
 
 I began this project by identifying a very broad subject of women's progress/ women's development as my focus. In part one my focus was on identifying data sources for the subject. While identifying these data sources I realized the subject was very broad and I was unable to coherently and convincingly present all aspects as this problem. I then narrowed it down to women in leadership positions. I did briefly consider narrowing it down further to a single field. However, due to data constrictions, I decided to consider general leadership. 
 I worked to identify recent and relevant data sets to understand the scope of the problem in the current state.
 
-## Audience Scope: ##
+## AUDIENCE SCOPE: ##
 Similar to my project scope I consider a very broad audience for the first two parts of my project.The way I approached the problem considering all those who could benefit from this project subject. For the first two parts, I considered women, organizations, and the general public as my audience. As I went through my research interviews, I realized that all different types of audience wanted to focus on different aspects of the project. I realized this again as I began to finalize my call to action. The call to action for a very wide audience / different groups in the audience was difficult to incorporate into a single project. For my third segment I narrowed the scope to focus on organizations. I included:
 
 a) *Start-up firms:*
@@ -15,10 +15,10 @@ It is also aimed to provide these firms with simple and economical steps that co
 b) *Large Scale Firms:*
 I included these firms as a part of my audience as wage inequality and lack of women leadership is more prevalent in these firms. This project could help them identify their shortfalls as well as better understand the steps they could take to combat the inequality and promote women inclusion.
 
-## Visualization: ##
+## VISUALIZATIONS: ##
 As I considered the different visualization I selected for this project I wanted to explore different types of infographics since It was not something I had used extensively for the other assignments and I thought they would be a clear way to display my data. 
 
-## Progress since the part 2 ##
+## PROGRESS ##
 
 I worked on  incorporating the appropriate feedback from my research interviews as well as incorporating the changes I felt had a better result by exploring different aspects of flourish, infogram and canva.
 
@@ -50,7 +50,7 @@ g)*Including details in the call to action:*
 
 I had included a brief outline of my call to action in the previous project submission. For my final project I added details, images and used button to link to other organizations that could prove to be further help.
 
-## Future Works ##
+## FUTURE WORKS ##
 
 The following are possible future avenues to develop this project further:
 
@@ -60,9 +60,11 @@ b)Include material in the call to action specifically for individuals.
 
 c)Included more details on the wage gap across different countries.
   
-## References: ##
+## REFERENCES: ##
 I have included all my citations for the information and the photos using APA-6 citation on my ShortHand project.
 
-## Link ##
-The link to my final project : https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html
+## LINKS ##
+- [Project Part 1](FinalProjectPart2.md)
+= [Project Part 2](FinalProject3.md)
+- [Final Project]( https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
 
