@@ -64,7 +64,7 @@ c)Included more details on the wage gap across different countries.
 I have included all my citations for the information and the photos using APA-6 citation on my ShortHand project.
 
 ## LINKS: ##
-- [Project Part 1](FinalProjectPart2.md)
-- [Project Part 2](FinalProject3.md)
+- [Project Part 1](FinalProjectPart1.md)
+- [Project Part 2](FinalProjectPart2.md)
 - [Final Project]( https://carnegiemellon.shorthandstories.com/a-seat-at-the-table/index.html)
 
