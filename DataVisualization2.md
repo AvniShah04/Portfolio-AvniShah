@@ -25,3 +25,6 @@ The chart used for the first visualization is a simple column chart. It helps co
 The chart used for the second visualization is a grid line chart. This chart allows the comparison of multiple countries in a single grid. It provides an overview of the data and also allows for comparison in trends between different countries. It is however not convenient to use it for observing individual level data.
 
 The final visualization is a combination of the above it is primarily a column chart grid with a filter to allow for individual level data visualization. The visualization used the same data source: OECD data. It classifies the data as per the years rather than the countries. This allows us to observe the trends of ratios in different countries at the same time. It is also arranged as per value and hence can be used to identify the countries with the highest and the lowest ratios. It presents in the grid view to allow for comparisons in trends across various years. The filter allows for selection of a single year which can be used to observe the individual level data more carefully. The color is not differentiated or highlighted since there is no single point of interest but is used to observe the data as a whole. The primary reason to select this visualization is the flexibility of both a overview and an in depth view.
+
+# Links : #
+[Back](README.md)
